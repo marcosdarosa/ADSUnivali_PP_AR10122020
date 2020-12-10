@@ -1,0 +1,14 @@
+C:\Users\marcos.rosa\Desktop\Cursos\Univali - ADS\PP-AtividadeRecuperacao\PP-AtividadeRecuperacao\bin\Debug\PP-AtividadeRecuperacao.exe.config
+C:\Users\marcos.rosa\Desktop\Cursos\Univali - ADS\PP-AtividadeRecuperacao\PP-AtividadeRecuperacao\bin\Debug\PP-AtividadeRecuperacao.exe
+C:\Users\marcos.rosa\Desktop\Cursos\Univali - ADS\PP-AtividadeRecuperacao\PP-AtividadeRecuperacao\bin\Debug\PP-AtividadeRecuperacao.pdb
+C:\Users\marcos.rosa\Desktop\Cursos\Univali - ADS\PP-AtividadeRecuperacao\PP-AtividadeRecuperacao\obj\Debug\PP-AtividadeRecuperacao.csprojAssemblyReference.cache
+C:\Users\marcos.rosa\Desktop\Cursos\Univali - ADS\PP-AtividadeRecuperacao\PP-AtividadeRecuperacao\obj\Debug\PP-AtividadeRecuperacao.csproj.CoreCompileInputs.cache
+C:\Users\marcos.rosa\Desktop\Cursos\Univali - ADS\PP-AtividadeRecuperacao\PP-AtividadeRecuperacao\obj\Debug\PP-AtividadeRecuperacao.exe
+C:\Users\marcos.rosa\Desktop\Cursos\Univali - ADS\PP-AtividadeRecuperacao\PP-AtividadeRecuperacao\obj\Debug\PP-AtividadeRecuperacao.pdb
+D:\Pessoal\Ensino\Univali\ADS\Paradigmas de Programacao\Atividade de Recuperação\PP-AtividadeRecuperacao\bin\Debug\PP-AtividadeRecuperacao.exe.config
+D:\Pessoal\Ensino\Univali\ADS\Paradigmas de Programacao\Atividade de Recuperação\PP-AtividadeRecuperacao\bin\Debug\PP-AtividadeRecuperacao.exe
+D:\Pessoal\Ensino\Univali\ADS\Paradigmas de Programacao\Atividade de Recuperação\PP-AtividadeRecuperacao\bin\Debug\PP-AtividadeRecuperacao.pdb
+D:\Pessoal\Ensino\Univali\ADS\Paradigmas de Programacao\Atividade de Recuperação\PP-AtividadeRecuperacao\obj\Debug\PP-AtividadeRecuperacao.csprojAssemblyReference.cache
+D:\Pessoal\Ensino\Univali\ADS\Paradigmas de Programacao\Atividade de Recuperação\PP-AtividadeRecuperacao\obj\Debug\PP-AtividadeRecuperacao.csproj.CoreCompileInputs.cache
+D:\Pessoal\Ensino\Univali\ADS\Paradigmas de Programacao\Atividade de Recuperação\PP-AtividadeRecuperacao\obj\Debug\PP-AtividadeRecuperacao.exe
+D:\Pessoal\Ensino\Univali\ADS\Paradigmas de Programacao\Atividade de Recuperação\PP-AtividadeRecuperacao\obj\Debug\PP-AtividadeRecuperacao.pdb
